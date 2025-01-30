@@ -75,7 +75,7 @@ function setupGame() {
     new Grimoire(950, 590, 128, 128)
     new Heal(235, 590, 128 ,128)
     new Enemy(50, 590, 96, 96, false, 0, 0)
-}
+
 
 // First Level
 function setupLevel() {
