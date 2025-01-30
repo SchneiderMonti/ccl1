@@ -1,4 +1,3 @@
-import { global } from "./global.js";
 import { Skeleton } from "../gameObjects/skeleton.js";
 import { Block } from "../gameObjects/block.js";
 import { Bullet } from "../gameObjects/Projectile.js";
