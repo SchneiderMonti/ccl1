@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Gameplay Screenshot" width="800">
+<img src="logo.png" alt="Brute Force Logo" width="800">
 
   # 🎮
 <p style = "    color: blue;"> BruteForce is a 2D-Side-Scrolling Shoter Game set in the Warhammer40K Universe. You play as an Astartes Warrior who has to cleanse a hive mind on a xenos planet and retrieve an old Grimoire. With your weapon (mouseclick), basic movement (ASD-keys) and a grenade (g-key) you have to be as efficient as possible to please the God-Emperor!
